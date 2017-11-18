@@ -117,7 +117,7 @@ Generalized well on the test accuracy.
 
 Here are six German traffic signs that I found on the web:
 
-<p align="center">
+<p align="left">
   <img src="Writeup_images/5_internet_images.png" alt="6_internet_images"/>
 </p>
 
@@ -142,9 +142,25 @@ The model was able to correctly guess 2 of the 6 traffic signs, which gives an a
 
 <p align="left">
   <img src="Writeup_images/internet_images_predictions_1.png" alt="internet_images_predictions_1"/>
+</p>
+
+<p align="left">
   <img src="Writeup_images/internet_images_predictions_2.png" alt="internet_images_predictions_2"/>
+</p>  
+  
+<p align="left">
   <img src="Writeup_images/internet_images_predictions_3.png" alt="internet_images_predictions_3"/>
+</p>
+  
+  
+<p align="left">
   <img src="Writeup_images/internet_images_predictions_4.png" alt="internet_images_predictions_4"/>
+</p>
+  
+<p align="left">
   <img src="Writeup_images/internet_images_predictions_5.png" alt="internet_images_predictions_5"/>
+</p>
+  
+<p align="left">
   <img src="Writeup_images/internet_images_predictions_6.png" alt="internet_images_predictions_6"/>
 </p>
