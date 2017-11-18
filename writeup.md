@@ -134,7 +134,7 @@ Here are the results of the prediction:
 | 50 km/h 				| End of no passing								|
 | Road Work 			| Road work						 				|
 | Stop 					| Traffic signals 								|
-| Yield Sign 			| Yield											|
+| Yield 				| Yield											|
 
 The model was able to correctly guess 2 of the 6 traffic signs, which gives an accuracy of 33%. This compares very unfavorably to the accuracy on the test set of 83%.  
 
