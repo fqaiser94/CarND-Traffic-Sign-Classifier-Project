@@ -47,7 +47,13 @@ Here are 3 examples of an original image and an augmented image:
 
 <p align="center">
   <img src="Writeup_images/image_1.png" alt="image_1"/>
+</p>
+
+<p align="center">
   <img src="Writeup_images/image_2.png" alt="image_2"/>
+</p>
+
+<p align="center">
   <img src="Writeup_images/image_3.png" alt="image_3"/>
 </p>
 
@@ -141,5 +147,25 @@ The model was able to correctly guess 2 of the 6 traffic signs, which gives an a
 **3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction. Provide the top 5 softmax probabilities for each image along with the sign type of each probability.** 
 
 <p align="center">
-  <img src="Writeup_images/5_internet_images_predictions.png" alt="5_internet_images_predictions"/>
+  <img src="Writeup_images/internet_images_predictions_1.png" alt="internet_images_predictions_1"/>
+</p>
+
+<p align="center">
+  <img src="Writeup_images/internet_images_predictions_2.png" alt="internet_images_predictions_2"/>
+</p>
+
+<p align="center">
+  <img src="Writeup_images/internet_images_predictions_3.png" alt="internet_images_predictions_3"/>
+</p>
+
+<p align="center">
+  <img src="Writeup_images/internet_images_predictions_4.png" alt="internet_images_predictions_4"/>
+</p>
+
+<p align="center">
+  <img src="Writeup_images/internet_images_predictions_5.png" alt="internet_images_predictions_5"/>
+</p>
+
+<p align="center">
+  <img src="Writeup_images/internet_images_predictions_6.png" alt="internet_images_predictions_6"/>
 </p>
