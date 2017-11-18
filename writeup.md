@@ -53,7 +53,11 @@ signs data set:
 
 Here is an exploratory visualization of the data set. It is a bar chart showing how the data is distributed across classes.  
 
-![Class_distribution][Writeup_images/class_distribution.[png]
+![Class_distribution][Writeup_images/class_distribution.png]
+
+<p align="center">
+  <img src="Writeup_images/class_distribution.png" alt="Model architecture"/>
+</p>
 
 ###Design and Test a Model Architecture
 
