@@ -45,15 +45,9 @@ As a first step, I decided to convert the images to YUV space and extracted only
 
 Here are 3 examples of an original image and an augmented image:
 
-<p align="center">
+<p align="left">
   <img src="Writeup_images/image_1.png" alt="image_1"/>
-</p>
-
-<p align="center">
   <img src="Writeup_images/image_2.png" alt="image_2"/>
-</p>
-
-<p align="center">
   <img src="Writeup_images/image_3.png" alt="image_3"/>
 </p>
 
