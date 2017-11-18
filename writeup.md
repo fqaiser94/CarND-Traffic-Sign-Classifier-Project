@@ -91,6 +91,10 @@ My final model results were:
 
 Started off by building a baseline model borrowing from the LeNet architecture.  
 
+<p align="left">
+  <img src="http://eblearn.sourceforge.net/lib/exe/lenet5.png" alt="lenet"/>
+</p>
+
 **What were some problems with the initial architecture?**  
 
 Poor accuracy, reaching at max 80% accuracy.  
@@ -104,6 +108,8 @@ Poor accuracy, reaching at max 80% accuracy.
 Dropout was tuned.  
 
 **What are some of the important design choices and why were they chosen? For example, why might a convolution layer work well with this problem? How might a dropout layer help with creating a successful model?**
+
+
 
 
 **How does the final model's accuracy on the training, validation and test set provide evidence that the model is working well?**
