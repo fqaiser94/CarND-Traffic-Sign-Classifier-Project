@@ -45,10 +45,11 @@ As a first step, I decided to convert the images to YUV space and extracted only
 
 Here are 3 examples of an original image and an augmented image:
 
-![image_1][Writeup_images/image_1.png]
-![image_2][Writeup_images/image_2.png]
-![image_3][Writeup_images/image_3.png]
-
+<p align="center">
+  <img src="Writeup_images/image_1.png" alt="image_1"/>
+  <img src="Writeup_images/image_2.png" alt="image_2"/>
+  <img src="Writeup_images/image_3.png" alt="image_3"/>
+</p>
 
 **2. Describe what your final model architecture looks like including model type, layers, layer sizes, connectivity, etc.) Consider including a diagram and/or table describing the final model.**  
 
@@ -116,8 +117,9 @@ Generalized well on the test accuracy.
 
 Here are six German traffic signs that I found on the web:
 
-![6_internet_images][Writeup_images/5_internet_images.png]
-
+<p align="center">
+  <img src="Writeup_images/5_internet_images.png" alt="6_internet_images"/>
+</p>
 
 All of these might be difficult to classify since they're generally offcenter and at angles.  
 
@@ -138,4 +140,6 @@ The model was able to correctly guess 2 of the 6 traffic signs, which gives an a
 
 **3. Describe how certain the model is when predicting on each of the five new images by looking at the softmax probabilities for each prediction. Provide the top 5 softmax probabilities for each image along with the sign type of each probability.** 
 
-![5_internet_images_predictions][Writeup_images/5_internet_images_predictions.png]
+<p align="center">
+  <img src="Writeup_images/5_internet_images_predictions.png" alt="5_internet_images_predictions"/>
+</p>
