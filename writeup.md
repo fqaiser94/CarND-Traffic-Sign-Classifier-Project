@@ -127,14 +127,14 @@ All of these might be difficult to classify since they're generally offcenter an
 
 Here are the results of the prediction:
 
-| Image			        |     Prediction	        					| 
+| Image					|Prediction										| 
 |:---------------------:|:---------------------------------------------:| 
-| Stop Sign      		| Stop sign   									| 
-| U-turn     			| U-turn 										|
-| Yield					| Yield											|
-| 100 km/h	      		| Bumpy Road					 				|
-| Slippery Road			| Slippery Road      							|
-| Slippery Road			| Slippery Road      							|
+| Yield					| Yield											| 
+| No Entry				| 70 km/h 										|
+| 50 km/h 				| End of no passing								|
+| Road Work 			| Road work						 				|
+| Stop 					| Traffic signals 								|
+| Yield Sign 			| Yield											|
 
 The model was able to correctly guess 2 of the 6 traffic signs, which gives an accuracy of 33%. This compares very unfavorably to the accuracy on the test set of 83%.  
 
